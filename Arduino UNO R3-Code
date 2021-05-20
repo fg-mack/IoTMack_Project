@@ -8,7 +8,7 @@
 #define WIFI_AP "SSID"
 #define WIFI_PASSWORD "PASSWORD"
 
-#define TOKEN "COYAjQxYQpnMAukJIptA"
+#define TOKEN "TOKEN"
 
 // DHT
 #define DHTPIN 4
