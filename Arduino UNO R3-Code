@@ -5,8 +5,8 @@
 #include "SoftwareSerial.h"
 #include <ThingsBoard.h>
 
-#define WIFI_AP "DEUS_VULT"
-#define WIFI_PASSWORD "C9D3ADD077"
+#define WIFI_AP "SSID"
+#define WIFI_PASSWORD "PASSWORD"
 
 #define TOKEN "COYAjQxYQpnMAukJIptA"
 
